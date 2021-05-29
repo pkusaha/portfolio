@@ -9,7 +9,10 @@ header .intro {
   display: grid;
   grid-template-columns: 100%;
   background-color: #076078;
-  font-size: 2rem;
+}
+
+h1 {
+  font-size: 4rem;
 }
 
 button {
